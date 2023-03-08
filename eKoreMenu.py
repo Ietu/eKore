@@ -18,10 +18,9 @@ from colorama import Fore, init, Style
 os.system("cls")
 
 center = shutil.get_terminal_size().columns
-# pcname = (os.getenv('COMPUTERNAME'))
-# username = os.getlogin()
-pcname = "@COMPUTERNAME"
-username = "@USERNAME"
+pcname = (os.getenv('COMPUTERNAME'))
+username = os.getlogin()
+
 
 init(autoreset=True)
 green = Fore.LIGHTGREEN_EX
