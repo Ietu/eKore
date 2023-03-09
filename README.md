@@ -1,7 +1,7 @@
 # eKore
 very WIP menu for all personal python projects so everything can be run from one menu.
 
-Currently only has some tools, webhook spammer, portscanner, obfuscator, colorpicker
+Currently only has some tools:
 - Utils: Colorpicker
 - Network: PortScanner with ping sweep, port scan and host discovery.
 - Discord: Webhook spammer
