@@ -10,4 +10,4 @@ Currently only has some tools:
 - WIP Text editor
 
 
-https://user-images.githubusercontent.com/54209182/223883858-830a16ed-5002-408e-a458-ed1f1c3ce047.mp4
+https://user-images.githubusercontent.com/54209182/224104931-4e3333bc-ec65-44d3-94d9-3ff00be4f088.mp4
