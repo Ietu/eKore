@@ -9,4 +9,5 @@ Currently only has some tools, webhook spammer, portscanner, obfuscator, colorpi
 - Game: soon Steam game launcher and some other python based games
 - WIP Text editor
 
-https://user-images.githubusercontent.com/54209182/223773422-3445e21a-abbc-4062-b22c-357ecd252374.mp4
+
+https://user-images.githubusercontent.com/54209182/223883858-830a16ed-5002-408e-a458-ed1f1c3ce047.mp4
