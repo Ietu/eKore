@@ -2,7 +2,7 @@
 very WIP menu for all personal python projects so everything can be run from one menu.
 
 Currently only has some tools:
-- Utils: Colorpicker, YT downloader(MP3/MP4)
+- Utils: Colorpicker, text to ASCII generator, YT downloader(MP3/MP4)
 - Network: PortScanner with ping sweep, port scan and host discovery.
 - Discord: Webhook spammer
 - File: Python obfuscator, file encryptor and decryptor
