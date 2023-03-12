@@ -6,7 +6,7 @@ Currently only has some tools:
 - Network: PortScanner with ping sweep, port scan and host discovery.
 - Discord: Webhook spammer
 - File: Python obfuscator, file encryptor and decryptor
-- Game: soon Steam game launcher and some other python based games
+- Game: soon Steam game launcher and some other python based games, Coin Flipper
 - WIP Text editor
 
 
