@@ -1,6 +1,8 @@
 # eKore
 very WIP menu for all personal python projects so everything can be run from one menu.
 
+Ability to run powershell commands from the main menu
+
 Currently only has some tools:
 - Utils: Colorpicker, text to ASCII generator, YT downloader(MP3/MP4)
 - Network: PortScanner with ping sweep, port scan and host discovery.
